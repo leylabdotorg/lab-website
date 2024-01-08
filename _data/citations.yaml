@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:38061017
+  title: Proteogenomic analysis reveals cytoplasmic sequestration of RUNX1 by the
+    acute myeloid leukemia-initiating CBFB::MYH11 oncofusion protein.
+  authors:
+  - Ryan B Day
+  - Julia A Hickman
+  - Ziheng Xu
+  - Casey Ds Katerndahl
+  - Francesca Ferraro
+  - Sai Mukund Ramakrishnan
+  - Petra Erdmann-Gilmore
+  - Robert W Sprung
+  - Yiling Mi
+  - R Reid Townsend
+  - Christopher A Miller
+  - Timothy J Ley
+  publisher: The Journal of clinical investigation
+  date: '2023-12-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38061017
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:37339484
   title: Genomic landscape of TP53-mutated myeloid malignancies.
   authors:
@@ -471,7 +493,7 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34341766
-  title: Bam-readcount -- rapid generation of basepair-resolution sequence metrics.
+  title: Bam-readcount - rapid generation of basepair-resolution sequence metrics.
   authors:
   - Ajay Khanna
   - David E Larson
