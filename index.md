@@ -6,12 +6,12 @@ title: The Ley Lab, AML research at Washington University in St Louis
 
 {% capture text %}
 
-For over thirty-five years, the Ley lab has studied the genomics, epigenomics, and molecular mechanisms that drive Acute Myeloid Leukemia (AML).
+The Ley lab studies the genomics, epigenomics, and molecular mechanisms that drive Acute Myeloid Leukemia (AML).
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,6 +26,30 @@ For over thirty-five years, the Ley lab has studied the genomics, epigenomics, a
   title="Our Research"
   text=text
 %}
+
+{% capture text %}
+
+The Ley lab studies the genomics, epigenomics, and molecular mechanisms that drive Acute Myeloid Leukemia (AML).
+
+{%
+  include button.html
+  link="publications"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="publications"
+  title="Lab Publications"
+  text=text
+%}
+
 
 {% capture text %}
 
