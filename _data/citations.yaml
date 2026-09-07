@@ -1,5 +1,237 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42678734
+  title: 'Predoctoral grant writing among physician-scientist trainees: A national
+    survey of barriers and facilitators of success.'
+  authors:
+  - Brian J Thomas
+  - Tiger S Zhang
+  - Daniel C Brock
+  - Timothy J Ley
+  - William D Arnold
+  - Cynthia Y Tang
+  publisher: JCI insight
+  date: '2026-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42678734
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42640163
+  title: Consolidation Therapy Based on Mutation Clearance in Acute Myeloid Leukemia.
+  authors:
+  - Meagan A Jacoby
+  - David H Spencer
+  - Feng Gao
+  - Geoffrey L Uy
+  - Tasha Burton
+  - Sharon E Heath
+  - Feiyu Du
+  - Michelle O'Laughlin
+  - Robert S Fulton
+  - Christopher A Miller
+  - Eric J Duncavage
+  - Mark A Schroeder
+  - Armin Ghobadi
+  - Iskra Pusic
+  - Keith E Stockerl-Goldstein
+  - Brad S Kahl
+  - Amanda F Cashen
+  - Matthew J Christopher
+  - Nathan Singh
+  - Ravi Vij
+  - Zachary D Crees
+  - Lukas D Wartman
+  - Ryan B Day
+  - Todd A Fehniger
+  - Karolyn A Oetjen
+  - Dilan A Patel
+  - Miriam Y Kim
+  - Michael J Slade
+  - Francesca Ferraro
+  - Matthew J Walter
+  - Camille N Abboud
+  - Ramzi Abboud
+  - Daniel C Link
+  - Zeina A Al-Mansour
+  - Christopher R Cogle
+  - Eric J Huselton
+  - John F DiPersio
+  - Peter Westervelt
+  - Timothy J Ley
+  publisher: NEJM evidence
+  date: '2026-08-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42640163
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42239263
+  title: Long-read cDNA sequencing reveals novel isoforms and spliceosome-mutant-enriched
+    transcripts in AML and MDS.
+  authors:
+  - Christopher A Miller
+  - Sridhar Nonavinkere Srivatsan
+  - Michael H Kramer
+  - Sai Mukund Ramakrishnan
+  - Catrina C Fronick
+  - Robert S Fulton
+  - Casey D Katerndahl
+  - Nichole M Helton
+  - Timothy J Ley
+  - Matthew J Walter
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2026-06-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42239263
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41905403
+  title: Corrigendum to "Recurrent Transcriptional Responses in AML and MDS patients
+    Treated with Decitabine" Experimental Hematology. 2022;111:50-65.
+  authors:
+  - Pawan Upadhyay
+  - Jeremy Beales
+  - Nakul M Shah
+  - Agata Gruszczynska
+  - Christopher A Miller
+  - Allegra A Petti
+  - Sai Mukund Ramakrishnan
+  - Daniel C Link
+  - Timothy J Ley
+  - John S Welch
+  publisher: Experimental hematology
+  date: '2026-04-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41905403
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41016628
+  title: Evaluation of Long-Read Genome Sequencing for Genomic Profiling of Myeloid
+    Cancers.
+  authors:
+  - Haley J Abel
+  - Mohamed Mahgoub
+  - Nidhi Davarapalli
+  - Rohan Kodgule
+  - Christopher A Miller
+  - Robert S Fulton
+  - Catrina Fronick
+  - Christopher Markovic
+  - Sharon Heath
+  - Jacqueline E Payton
+  - Meagan A Jacoby
+  - Daniel C Link
+  - Matthew J Walter
+  - Eric J Duncavage
+  - Timothy J Ley
+  - David H Spencer
+  publisher: 'The Journal of molecular diagnostics : JMD'
+  date: '2025-09-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41016628
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40773291
+  title: Overexpression of the signaling coordinator GAB2 can play an important role
+    in acute myeloid leukemia progression.
+  authors:
+  - Michael H Kramer
+  - Stephanie N Richardson
+  - Yang Li
+  - Tiankai Yin
+  - Nichole M Helton
+  - Daniel R George
+  - Michelle Cai
+  - Sai Mukund Ramakrishnan
+  - Casey Ds Katerndahl
+  - Christopher A Miller
+  - Timothy J Ley
+  publisher: The Journal of clinical investigation
+  date: '2025-08-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40773291
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38648485
+  title: PML::RARA and GATA2 proteins interact via DNA templates to induce aberrant
+    self-renewal in mouse and human hematopoietic cells.
+  authors:
+  - Casey D S Katerndahl
+  - Olivia R S Rogers
+  - Ryan B Day
+  - Ziheng Xu
+  - Nichole M Helton
+  - Sai Mukund Ramakrishnan
+  - Christopher A Miller
+  - Timothy J Ley
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2024-04-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38648485
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38618679
+  title: Molecular responses in decitabine- and decitabine/ venetoclax-treated patients
+    with acute myeloid leukemia and myelodysplastic syndromes.
+  authors:
+  - Agata Gruszczynska
+  - Abhishek Maiti
+  - Christopher A Miller
+  - Sai Mukund Ramakrishnan
+  - Daniel C Link
+  - Geoffrey L Uy
+  - Allegra A Petti
+  - Kala Hayes
+  - Courtney D DiNardo
+  - Farhad Ravandi
+  - Timothy J Ley
+  - David H Spencer
+  - Feng Gao
+  - Marina Y Konopleva
+  - John S Welch
+  publisher: Haematologica
+  date: '2024-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38618679
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38295174
+  title: Rapid and accurate remethylation of DNA in
+  authors:
+  - Yang Li
+  - Haley J Abel
+  - Michelle Cai
+  - Taylor A LaValle
+  - Tiankai Yin
+  - Nichole M Helton
+  - Amanda M Smith
+  - Christopher A Miller
+  - Timothy J Ley
+  publisher: Science advances
+  date: '2024-01-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38295174
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38219859
+  title: 'Stabilizing the Proteomes of Acute Myeloid Leukemia Cells: Implications
+    for Cancer Proteomics.'
+  authors:
+  - Robert W Sprung
+  - Qiang Zhang
+  - Michael H Kramer
+  - Matthew C Christopher
+  - Petra Erdmann-Gilmore
+  - Yiling Mi
+  - James P Malone
+  - Timothy J Ley
+  - R Reid Townsend
+  publisher: 'Molecular & cellular proteomics : MCP'
+  date: '2024-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38219859
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38061017
   title: Proteogenomic analysis reveals cytoplasmic sequestration of RUNX1 by the
     acute myeloid leukemia-initiating CBFB::MYH11 oncofusion protein.
@@ -377,6 +609,28 @@
   publisher: Blood cancer discovery
   date: '2021-08-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35019859
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42453900
+  title: Bam-readcount - rapid generation of basepair-resolution sequence metrics.
+  authors:
+  - Ajay Khanna
+  - David E Larson
+  - Sridhar Nonavinkere Srivatsan
+  - Matthew Mosior
+  - Travis E Abbott
+  - Susanna Kiwala
+  - Timothy J Ley
+  - Eric J Duncavage
+  - Matthew J Walter
+  - Jason R Walker
+  - Obi L Griffith
+  - Malachi Griffith
+  - Christopher A Miller
+  publisher: Journal of open source software
+  date: '2022-01-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42453900
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
