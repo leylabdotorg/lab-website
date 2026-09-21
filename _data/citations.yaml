@@ -1,5 +1,201 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42678734
+  title: 'Predoctoral grant writing among physician-scientist trainees: A national
+    survey of barriers and facilitators of success.'
+  authors:
+  - Brian J Thomas
+  - Tiger S Zhang
+  - Daniel C Brock
+  - Timothy J Ley
+  - William D Arnold
+  - Cynthia Y Tang
+  publisher: JCI insight
+  date: '2026-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42678734
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42640163
+  title: Consolidation Therapy Based on Mutation Clearance in Acute Myeloid Leukemia.
+  authors:
+  - Meagan A Jacoby
+  - David H Spencer
+  - Feng Gao
+  - Geoffrey L Uy
+  - Tasha Burton
+  - Sharon E Heath
+  - Feiyu Du
+  - Michelle O'Laughlin
+  - Robert S Fulton
+  - Christopher A Miller
+  - Eric J Duncavage
+  - Mark A Schroeder
+  - Armin Ghobadi
+  - Iskra Pusic
+  - Keith E Stockerl-Goldstein
+  - Brad S Kahl
+  - Amanda F Cashen
+  - Matthew J Christopher
+  - Nathan Singh
+  - Ravi Vij
+  - Zachary D Crees
+  - Lukas D Wartman
+  - Ryan B Day
+  - Todd A Fehniger
+  - Karolyn A Oetjen
+  - Dilan A Patel
+  - Miriam Y Kim
+  - Michael J Slade
+  - Francesca Ferraro
+  - Matthew J Walter
+  - Camille N Abboud
+  - Ramzi Abboud
+  - Daniel C Link
+  - Zeina A Al-Mansour
+  - Christopher R Cogle
+  - Eric J Huselton
+  - John F DiPersio
+  - Peter Westervelt
+  - Timothy J Ley
+  publisher: NEJM evidence
+  date: '2026-08-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42640163
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42239263
+  title: Long-read cDNA sequencing reveals novel isoforms and spliceosome-mutant-enriched
+    transcripts in AML and MDS.
+  authors:
+  - Christopher A Miller
+  - Sridhar Nonavinkere Srivatsan
+  - Michael H Kramer
+  - Sai Mukund Ramakrishnan
+  - Catrina C Fronick
+  - Robert S Fulton
+  - Casey D Katerndahl
+  - Nichole M Helton
+  - Timothy J Ley
+  - Matthew J Walter
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2026-06-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42239263
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41905403
+  title: Corrigendum to "Recurrent Transcriptional Responses in AML and MDS patients
+    Treated with Decitabine" Experimental Hematology. 2022;111:50-65.
+  authors:
+  - Pawan Upadhyay
+  - Jeremy Beales
+  - Nakul M Shah
+  - Agata Gruszczynska
+  - Christopher A Miller
+  - Allegra A Petti
+  - Sai Mukund Ramakrishnan
+  - Daniel C Link
+  - Timothy J Ley
+  - John S Welch
+  publisher: Experimental hematology
+  date: '2026-04-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41905403
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41016628
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40773291
+  title: Overexpression of the signaling coordinator GAB2 can play an important role
+    in acute myeloid leukemia progression.
+  authors:
+  - Michael H Kramer
+  - Stephanie N Richardson
+  - Yang Li
+  - Tiankai Yin
+  - Nichole M Helton
+  - Daniel R George
+  - Michelle Cai
+  - Sai Mukund Ramakrishnan
+  - Casey Ds Katerndahl
+  - Christopher A Miller
+  - Timothy J Ley
+  publisher: The Journal of clinical investigation
+  date: '2025-08-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40773291
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38648485
+  title: PML::RARA and GATA2 proteins interact via DNA templates to induce aberrant
+    self-renewal in mouse and human hematopoietic cells.
+  authors:
+  - Casey D S Katerndahl
+  - Olivia R S Rogers
+  - Ryan B Day
+  - Ziheng Xu
+  - Nichole M Helton
+  - Sai Mukund Ramakrishnan
+  - Christopher A Miller
+  - Timothy J Ley
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2024-04-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38648485
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38618679
+  title: Molecular responses in decitabine- and decitabine/ venetoclax-treated patients
+    with acute myeloid leukemia and myelodysplastic syndromes.
+  authors:
+  - Agata Gruszczynska
+  - Abhishek Maiti
+  - Christopher A Miller
+  - Sai Mukund Ramakrishnan
+  - Daniel C Link
+  - Geoffrey L Uy
+  - Allegra A Petti
+  - Kala Hayes
+  - Courtney D DiNardo
+  - Farhad Ravandi
+  - Timothy J Ley
+  - David H Spencer
+  - Feng Gao
+  - Marina Y Konopleva
+  - John S Welch
+  publisher: Haematologica
+  date: '2024-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38618679
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38295174
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38219859
+  title: 'Stabilizing the Proteomes of Acute Myeloid Leukemia Cells: Implications
+    for Cancer Proteomics.'
+  authors:
+  - Robert W Sprung
+  - Qiang Zhang
+  - Michael H Kramer
+  - Matthew C Christopher
+  - Petra Erdmann-Gilmore
+  - Yiling Mi
+  - James P Malone
+  - Timothy J Ley
+  - R Reid Townsend
+  publisher: 'Molecular & cellular proteomics : MCP'
+  date: '2024-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38219859
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38061017
   title: Proteogenomic analysis reveals cytoplasmic sequestration of RUNX1 by the
     acute myeloid leukemia-initiating CBFB::MYH11 oncofusion protein.
@@ -89,31 +285,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:36711871
-  title: Genomic landscape of
-  authors:
-  - Haley J Abel
-  - Karolyn A Oetjen
-  - Christopher A Miller
-  - Sai M Ramakrishnan
-  - Ryan B Day
-  - Nichole M Helton
-  - Catrina C Fronick
-  - Robert S Fulton
-  - Sharon E Heath
-  - Stefan P Tarnawsky
-  - Sridhar Nonavinkere Srivatsan
-  - Eric J Duncavage
-  - Molly C Schroeder
-  - Jacqueline E Payton
-  - David H Spencer
-  - Matthew J Walter
-  - Peter Westervelt
-  - John F DiPersio
-  - Timothy J Ley
-  - Daniel C Link
-  publisher: 'medRxiv : the preprint server for health sciences'
-  date: '2023-01-11'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36711871
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -197,36 +368,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:35709710
-  title: Convergent Clonal Evolution of Signaling Gene Mutations Is a Hallmark of
-    Myelodysplastic Syndrome Progression.
-  authors:
-  - Andrew J Menssen
-  - Ajay Khanna
-  - Christopher A Miller
-  - Sridhar Nonavinkere Srivatsan
-  - Gue Su Chang
-  - Jin Shao
-  - Joshua Robinson
-  - Michele O'Laughlin
-  - Catrina C Fronick
-  - Robert S Fulton
-  - Kimberly Brendel
-  - Sharon E Heath
-  - Raya Saba
-  - John S Welch
-  - David H Spencer
-  - Jacqueline E Payton
-  - Peter Westervelt
-  - John F DiPersio
-  - Daniel C Link
-  - Matthew J Schuelke
-  - Meagan A Jacoby
-  - Eric J Duncavage
-  - Timothy J Ley
-  - Matthew J Walter
-  publisher: Blood cancer discovery
-  date: '2022-07-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35709710
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -288,19 +429,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:35313694
-  title: Somatic
-  authors:
-  - Amanda M Smith
-  - Angela M Verdoni
-  - Haley J Abel
-  - David Y Chen
-  - Shamika Ketkar
-  - Elizabeth R Leight
-  - Christopher A Miller
-  - Timothy J Ley
-  publisher: iScience
-  date: '2022-03-03'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35313694
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -377,6 +505,10 @@
   publisher: Blood cancer discovery
   date: '2021-08-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35019859
+  term: Ley, TJ[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42453900
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -470,25 +602,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34670359
-  title: Tumor suppressor function of
-  authors:
-  - Matthew J Christopher
-  - Casey D S Katerndahl
-  - Hayley R LeBlanc
-  - Tyler T Elmendorf
-  - Vaishali Basu
-  - Margery Gang
-  - Andrew J Menssen
-  - David H Spencer
-  - Eric J Duncavage
-  - Shamika Ketkar
-  - Lukas D Wartman
-  - Sai Mukund Ramakrishnan
-  - Christopher A Miller
-  - Timothy J Ley
-  publisher: Haematologica
-  date: '2022-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34670359
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -565,37 +678,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34036230
-  title: Impact of a 40-Gene Targeted Panel Test on Physician Decision Making for
-    Patients With Acute Myeloid Leukemia.
-  authors:
-  - Erica K Barnell
-  - Kenneth F Newcomer
-  - Zachary L Skidmore
-  - Kilannin Krysiak
-  - Sydney R Anderson
-  - Lukas D Wartman
-  - Stephen T Oh
-  - John S Welch
-  - Keith E Stockerl-Goldstein
-  - Ravi Vij
-  - Amanda F Cashen
-  - Iskra Pusic
-  - Peter Westervelt
-  - Camille N Abboud
-  - Armin Ghobadi
-  - Geoffrey L Uy
-  - Mark A Schroeder
-  - John F Dipersio
-  - Mary C Politi
-  - David H Spencer
-  - Eric J Duncavage
-  - Timothy J Ley
-  - Malachi Griffith
-  - Meagan A Jacoby
-  - Obi L Griffith
-  publisher: JCO precision oncology
-  date: '2021-01-14'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34036230
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -694,25 +776,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:33388420
-  title: Enhanced Efficacy and Increased Long-Term Toxicity of CNS-Directed, AAV-Based
-    Combination Therapy for Krabbe Disease.
-  authors:
-  - Yedda Li
-  - Christopher A Miller
-  - Lauren K Shea
-  - Xuntian Jiang
-  - Miguel A Guzman
-  - Randy J Chandler
-  - Sai M Ramakrishnan
-  - Stephanie N Smith
-  - Charles P Venditti
-  - Carole A Vogler
-  - Daniel S Ory
-  - Timothy J Ley
-  - Mark S Sands
-  publisher: 'Molecular therapy : the journal of the American Society of Gene Therapy'
-  date: '2021-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33388420
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -809,28 +872,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:31515354
-  title: 'Obesity is a risk factor for acute promyelocytic leukemia: evidence from
-    population and cross-sectional studies and correlation with FLT3 mutations and
-    polyunsaturated fatty acid metabolism.'
-  authors:
-  - Luca Mazzarella
-  - Edoardo Botteri
-  - Anthony Matthews
-  - Elena Gatti
-  - Davide Di Salvatore
-  - Vincenzo Bagnardi
-  - Massimo Breccia
-  - Pau Montesinos
-  - Teresa Bernal
-  - Cristina Gil
-  - Timothy J Ley
-  - Miguel Sanz
-  - Krishnan Bhaskaran
-  - Francesco Lo Coco
-  - Pier Giuseppe Pelicci
-  publisher: Haematologica
-  date: '2019-09-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31515354
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1046,18 +1087,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:29365324
-  title: Expression profiling of snoRNAs in normal hematopoiesis and AML.
-  authors:
-  - Wayne A Warner
-  - David H Spencer
-  - Maria Trissal
-  - Brian S White
-  - Nichole Helton
-  - Timothy J Ley
-  - Daniel C Link
-  publisher: Blood advances
-  date: '2018-01-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29365324
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1133,30 +1162,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:28215704
-  title: CpG Island Hypermethylation Mediated by DNMT3A Is a Consequence of AML Progression.
-  authors:
-  - David H Spencer
-  - David A Russler-Germain
-  - Shamika Ketkar
-  - Nichole M Helton
-  - Tamara L Lamprecht
-  - Robert S Fulton
-  - Catrina C Fronick
-  - Michelle O'Laughlin
-  - Sharon E Heath
-  - Marwan Shinawi
-  - Peter Westervelt
-  - Jacqueline E Payton
-  - Lukas D Wartman
-  - John S Welch
-  - Richard K Wilson
-  - Matthew J Walter
-  - Daniel C Link
-  - John F DiPersio
-  - Timothy J Ley
-  publisher: Cell
-  date: '2017-02-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28215704
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1316,49 +1321,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:27181063
-  title: Comprehensive genomic analysis reveals FLT3 activation and a therapeutic
-    strategy for a patient with relapsed adult B-lymphoblastic leukemia.
-  authors:
-  - Malachi Griffith
-  - Obi L Griffith
-  - Kilannin Krysiak
-  - Zachary L Skidmore
-  - Matthew J Christopher
-  - Jeffery M Klco
-  - Avinash Ramu
-  - Tamara L Lamprecht
-  - Alex H Wagner
-  - Katie M Campbell
-  - Robert Lesurf
-  - Jasreet Hundal
-  - Jin Zhang
-  - Nicholas C Spies
-  - Benjamin J Ainscough
-  - David E Larson
-  - Sharon E Heath
-  - Catrina Fronick
-  - Shelly O'Laughlin
-  - Robert S Fulton
-  - Vincent Magrini
-  - Sean McGrath
-  - Scott M Smith
-  - Christopher A Miller
-  - Christopher A Maher
-  - Jacqueline E Payton
-  - Jason R Walker
-  - James M Eldred
-  - Matthew J Walter
-  - Daniel C Link
-  - Timothy A Graubert
-  - Peter Westervelt
-  - Shashikant Kulkarni
-  - John F DiPersio
-  - Elaine R Mardis
-  - Richard K Wilson
-  - Timothy J Ley
-  publisher: Experimental hematology
-  date: '2016-05-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27181063
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1480,21 +1442,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:26595813
-  title: PML-RARA requires DNA methyltransferase 3A to initiate acute promyelocytic
-    leukemia.
-  authors:
-  - Christopher B Cole
-  - Angela M Verdoni
-  - Shamika Ketkar
-  - Elizabeth R Leight
-  - David A Russler-Germain
-  - Tamara L Lamprecht
-  - Ryan T Demeter
-  - Vincent Magrini
-  - Timothy J Ley
-  publisher: The Journal of clinical investigation
-  date: '2015-11-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26595813
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1609,24 +1556,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:25799070
-  title: 'Genetic heterogeneity of induced pluripotent stem cells: results from 24
-    clones derived from a single C57BL/6 mouse.'
-  authors:
-  - Cheng Li
-  - Jeffery M Klco
-  - Nichole M Helton
-  - Daniel R George
-  - Jacqueline L Mudd
-  - Christopher A Miller
-  - Charles Lu
-  - Robert Fulton
-  - Michelle O'Laughlin
-  - Catrina Fronick
-  - Richard K Wilson
-  - Timothy J Ley
-  publisher: PloS one
-  date: '2015-03-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25799070
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1703,32 +1632,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:25393105
-  title: Clonal architectures and driver mutations in metastatic melanomas.
-  authors:
-  - Li Ding
-  - Minjung Kim
-  - Krishna L Kanchi
-  - Nathan D Dees
-  - Charles Lu
-  - Malachi Griffith
-  - David Fenstermacher
-  - Hyeran Sung
-  - Christopher A Miller
-  - Brian Goetz
-  - Michael C Wendl
-  - Obi Griffith
-  - Lynn A Cornelius
-  - Gerald P Linette
-  - Joshua F McMichael
-  - Vernon K Sondak
-  - Ryan C Fields
-  - Timothy J Ley
-  - "James J Mul\xE9"
-  - Richard K Wilson
-  - Jeffrey S Weber
-  publisher: PloS one
-  date: '2014-11-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25393105
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1809,21 +1712,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:25252869
-  title: Clonal evolution revealed by whole genome sequencing in a case of primary
-    myelofibrosis transformed to secondary acute myeloid leukemia.
-  authors:
-  - E K Engle
-  - D A C Fisher
-  - C A Miller
-  - M D McLellan
-  - R S Fulton
-  - D M Moore
-  - R K Wilson
-  - T J Ley
-  - S T Oh
-  publisher: Leukemia
-  date: '2014-09-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25252869
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1921,30 +1809,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:24613412
-  title: Functional heterogeneity of genetically defined subclones in acute myeloid
-    leukemia.
-  authors:
-  - Jeffery M Klco
-  - David H Spencer
-  - Christopher A Miller
-  - Malachi Griffith
-  - Tamara L Lamprecht
-  - Michelle O'Laughlin
-  - Catrina Fronick
-  - Vincent Magrini
-  - Ryan T Demeter
-  - Robert S Fulton
-  - William C Eades
-  - Daniel C Link
-  - Timothy A Graubert
-  - Matthew J Walter
-  - Elaine R Mardis
-  - John F Dipersio
-  - Richard K Wilson
-  - Timothy J Ley
-  publisher: Cancer cell
-  date: '2014-03-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24613412
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -2021,22 +1885,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:24009227
-  title: Acquired copy number alterations of miRNA genes in acute myeloid leukemia
-    are uncommon.
-  authors:
-  - Giridharan Ramsingh
-  - Meagan A Jacoby
-  - Jin Shao
-  - Rigoberto E De Jesus Pizzaro
-  - Dong Shen
-  - Maria Trissal
-  - Angela H Getz
-  - Timothy J Ley
-  - Matthew J Walter
-  - Daniel C Link
-  publisher: Blood
-  date: '2013-09-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24009227
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -2220,28 +2068,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:23297133
-  title: Genomic impact of transient low-dose decitabine treatment on primary AML
-    cells.
-  authors:
-  - Jeffery M Klco
-  - David H Spencer
-  - Tamara L Lamprecht
-  - Shawn M Sarkaria
-  - Todd Wylie
-  - Vincent Magrini
-  - Jasreet Hundal
-  - Jason Walker
-  - Nobish Varghese
-  - Petra Erdmann-Gilmore
-  - Cheryl F Lichti
-  - Matthew R Meyer
-  - R Reid Townsend
-  - Richard K Wilson
-  - Elaine R Mardis
-  - Timothy J Ley
-  publisher: Blood
-  date: '2013-01-07'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23297133
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -2494,33 +2320,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:22542160
-  title: Background mutations in parental cells account for most of the genetic heterogeneity
-    of induced pluripotent stem cells.
-  authors:
-  - Margaret A Young
-  - David E Larson
-  - Chiao-Wang Sun
-  - Daniel R George
-  - Li Ding
-  - Christopher A Miller
-  - Ling Lin
-  - Kevin M Pawlik
-  - Ken Chen
-  - Xian Fan
-  - Heather Schmidt
-  - Joelle Kalicki-Veizer
-  - Lisa L Cook
-  - Gary W Swift
-  - Ryan T Demeter
-  - Michael C Wendl
-  - Mark S Sands
-  - Elaine R Mardis
-  - Richard K Wilson
-  - Tim M Townes
-  - Timothy J Ley
-  publisher: Cell stem cell
-  date: '2012-04-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22542160
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -2822,44 +2621,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:21436584
-  title: Sequencing a mouse acute promyelocytic leukemia genome reveals genetic events
-    relevant for disease progression.
-  authors:
-  - Lukas D Wartman
-  - David E Larson
-  - Zhifu Xiang
-  - Li Ding
-  - Ken Chen
-  - Ling Lin
-  - Patrick Cahan
-  - Jeffery M Klco
-  - John S Welch
-  - Cheng Li
-  - Jacqueline E Payton
-  - Geoffrey L Uy
-  - Nobish Varghese
-  - Rhonda E Ries
-  - Mieke Hoock
-  - Daniel C Koboldt
-  - Michael D McLellan
-  - Heather Schmidt
-  - Robert S Fulton
-  - Rachel M Abbott
-  - Lisa Cook
-  - Sean D McGrath
-  - Xian Fan
-  - Adam F Dukes
-  - Tammi Vickery
-  - Joelle Kalicki
-  - Tamara L Lamprecht
-  - Timothy A Graubert
-  - Michael H Tomasson
-  - Elaine R Mardis
-  - Richard K Wilson
-  - Timothy J Ley
-  publisher: The Journal of clinical investigation
-  date: '2011-03-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21436584
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -2919,59 +2680,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:21067377
-  title: DNMT3A mutations in acute myeloid leukemia.
-  authors:
-  - Timothy J Ley
-  - Li Ding
-  - Matthew J Walter
-  - Michael D McLellan
-  - Tamara Lamprecht
-  - David E Larson
-  - Cyriac Kandoth
-  - Jacqueline E Payton
-  - Jack Baty
-  - John Welch
-  - Christopher C Harris
-  - Cheryl F Lichti
-  - R Reid Townsend
-  - Robert S Fulton
-  - David J Dooling
-  - Daniel C Koboldt
-  - Heather Schmidt
-  - Qunyuan Zhang
-  - John R Osborne
-  - Ling Lin
-  - Michelle O'Laughlin
-  - Joshua F McMichael
-  - Kim D Delehaunty
-  - Sean D McGrath
-  - Lucinda A Fulton
-  - Vincent J Magrini
-  - Tammi L Vickery
-  - Jasreet Hundal
-  - Lisa L Cook
-  - Joshua J Conyers
-  - Gary W Swift
-  - Jerry P Reed
-  - Patricia A Alldredge
-  - Todd Wylie
-  - Jason Walker
-  - Joelle Kalicki
-  - Mark A Watson
-  - Sharon Heath
-  - William D Shannon
-  - Nobish Varghese
-  - Rakesh Nagarajan
-  - Peter Westervelt
-  - Michael H Tomasson
-  - Daniel C Link
-  - Timothy A Graubert
-  - John F DiPersio
-  - Elaine R Mardis
-  - Richard K Wilson
-  publisher: The New England journal of medicine
-  date: '2010-11-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21067377
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -3044,18 +2752,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:20484815
-  title: Mcl1 haploinsufficiency protects mice from Myc-induced acute myeloid leukemia.
-  authors:
-  - Zhifu Xiang
-  - Hui Luo
-  - Jacqueline E Payton
-  - Jennifer Cain
-  - Timothy J Ley
-  - Joseph T Opferman
-  - Michael H Tomasson
-  publisher: The Journal of clinical investigation
-  date: '2010-05-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/20484815
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -3623,22 +3319,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:19843867
-  title: Interleukin 12 stimulates IFN-gamma-mediated inhibition of tumor-induced
-    regulatory T-cell proliferation and enhances tumor clearance.
-  authors:
-  - Xuefang Cao
-  - Karen Leonard
-  - Lynne I Collins
-  - Sheng F Cai
-  - Joshua C Mayer
-  - Jacqueline E Payton
-  - Michael J Walter
-  - David Piwnica-Worms
-  - Robert D Schreiber
-  - Timothy J Ley
-  publisher: Cancer research
-  date: '2009-10-20'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/19843867
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -3775,21 +3455,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:19451695
-  title: High throughput digital quantification of mRNA abundance in primary human
-    acute myeloid leukemia samples.
-  authors:
-  - Jacqueline E Payton
-  - Nicole R Grieselhuber
-  - Li-Wei Chang
-  - Mark Murakami
-  - Gary K Geiss
-  - Daniel C Link
-  - Rakesh Nagarajan
-  - Mark A Watson
-  - Timothy J Ley
-  publisher: The Journal of clinical investigation
-  date: '2009-05-18'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/19451695
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -3842,59 +3507,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:18987736
-  title: DNA sequencing of a cytogenetically normal acute myeloid leukaemia genome.
-  authors:
-  - Timothy J Ley
-  - Elaine R Mardis
-  - Li Ding
-  - Bob Fulton
-  - Michael D McLellan
-  - Ken Chen
-  - David Dooling
-  - Brian H Dunford-Shore
-  - Sean McGrath
-  - Matthew Hickenbotham
-  - Lisa Cook
-  - Rachel Abbott
-  - David E Larson
-  - Dan C Koboldt
-  - Craig Pohl
-  - Scott Smith
-  - Amy Hawkins
-  - Scott Abbott
-  - Devin Locke
-  - Ladeana W Hillier
-  - Tracie Miner
-  - Lucinda Fulton
-  - Vincent Magrini
-  - Todd Wylie
-  - Jarret Glasscock
-  - Joshua Conyers
-  - Nathan Sander
-  - Xiaoqi Shi
-  - John R Osborne
-  - Patrick Minx
-  - David Gordon
-  - Asif Chinwalla
-  - Yu Zhao
-  - Rhonda E Ries
-  - Jacqueline E Payton
-  - Peter Westervelt
-  - Michael H Tomasson
-  - Mark Watson
-  - Jack Baty
-  - Jennifer Ivanovich
-  - Sharon Heath
-  - William D Shannon
-  - Rakesh Nagarajan
-  - Matthew J Walter
-  - Daniel C Link
-  - Timothy A Graubert
-  - John F DiPersio
-  - Richard K Wilson
-  publisher: Nature
-  date: '2008-11-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/18987736
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -3952,37 +3564,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:18270328
-  title: Somatic mutations and germline sequence variants in the expressed tyrosine
-    kinase genes of patients with de novo acute myeloid leukemia.
-  authors:
-  - Michael H Tomasson
-  - Zhifu Xiang
-  - Richard Walgren
-  - Yu Zhao
-  - Yumi Kasai
-  - Tracie Miner
-  - Rhonda E Ries
-  - Olga Lubman
-  - Daved H Fremont
-  - Michael D McLellan
-  - Jacqueline E Payton
-  - Peter Westervelt
-  - John F DiPersio
-  - Daniel C Link
-  - Matthew J Walter
-  - Timothy A Graubert
-  - Mark Watson
-  - Jack Baty
-  - Sharon Heath
-  - William D Shannon
-  - Rakesh Nagarajan
-  - Clara D Bloomfield
-  - Elaine R Mardis
-  - Richard K Wilson
-  - Timothy J Ley
-  publisher: Blood
-  date: '2008-02-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/18270328
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4090,23 +3671,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:17206864
-  title: A high-resolution map of segmental DNA copy number variation in the mouse
-    genome.
-  authors:
-  - Timothy A Graubert
-  - Patrick Cahan
-  - Deepa Edwin
-  - Rebecca R Selzer
-  - Todd A Richmond
-  - Peggy S Eis
-  - William D Shannon
-  - Xia Li
-  - Howard L McLeod
-  - James M Cheverud
-  - Timothy J Ley
-  publisher: PLoS genetics
-  date: '2006-11-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/17206864
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4171,22 +3735,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:16675706
-  title: Oncogenic K-ras cooperates with PML-RAR alpha to induce an acute promyelocytic
-    leukemia-like disease.
-  authors:
-  - Iris T Chan
-  - Jeffery L Kutok
-  - Ifor R Williams
-  - Sarah Cohen
-  - Sandra Moore
-  - Hirokazu Shigematsu
-  - Timothy J Ley
-  - Koichi Akashi
-  - Michelle M Le Beau
-  - D Gary Gilliland
-  publisher: Blood
-  date: '2006-05-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/16675706
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4249,15 +3797,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:15899865
-  title: YB-1 is important for late-stage embryonic development, optimal cellular
-    stress responses, and the prevention of premature senescence.
-  authors:
-  - Zhi Hong Lu
-  - Jason T Books
-  - Timothy J Ley
-  publisher: Molecular and cellular biology
-  date: '2005-06-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/15899865
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4350,18 +3889,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:15485635
-  title: Human T regulatory cells can use the perforin pathway to cause autologous
-    target cell death.
-  authors:
-  - William J Grossman
-  - James W Verbsky
-  - Winfried Barchet
-  - Marco Colonna
-  - John P Atkinson
-  - Timothy J Ley
-  publisher: Immunity
-  date: '2004-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/15485635
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4415,18 +3942,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:15238416
-  title: Differential expression of granzymes A and B in human cytotoxic lymphocyte
-    subsets and T regulatory cells.
-  authors:
-  - William J Grossman
-  - James W Verbsky
-  - Benjamin L Tollefsen
-  - Claudia Kemper
-  - John P Atkinson
-  - Timothy J Ley
-  publisher: Blood
-  date: '2004-07-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/15238416
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4608,18 +4123,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:11752447
-  title: Granzyme B can cause mitochondrial depolarization and cell death in the absence
-    of BID, BAX, and BAK.
-  authors:
-  - D A Thomas
-  - L Scorrano
-  - G V Putcha
-  - S J Korsmeyer
-  - T J Ley
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '2001-12-18'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/11752447
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4675,17 +4178,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:11279033
-  title: Dipeptidyl peptidase I is essential for activation of mast cell chymases,
-    but not tryptases, in mice.
-  authors:
-  - P J Wolters
-  - C T Pham
-  - D J Muilenburg
-  - T J Ley
-  - G H Caughey
-  publisher: The Journal of biological chemistry
-  date: '2001-02-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/11279033
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4738,20 +4230,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:10704289
-  title: Deletions within the mouse beta-globin locus control region preferentially
-    reduce beta(min) globin gene expression.
-  authors:
-  - R Alami
-  - M A Bender
-  - Y Q Feng
-  - S N Fiering
-  - B A Hug
-  - T J Ley
-  - M Groudine
-  - E E Bouhassira
-  publisher: Genomics
-  date: '2000-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/10704289
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4842,14 +4320,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:10090920
-  title: 'Seed versus soil: the importance of the target cell for transgenic models
-    of human leukemias.'
-  authors:
-  - P Westervelt
-  - T J Ley
-  publisher: Blood
-  date: '1999-04-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/10090920
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4898,18 +4368,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:9668526
-  title: Reduced beta-globin gene expression in adult mice containing deletions of
-    locus control region 5' HS-2 or 5' HS-3.
-  authors:
-  - T J Ley
-  - B Hug
-  - S Fiering
-  - E Epner
-  - M A Bender
-  - M Groudine
-  publisher: Annals of the New York Academy of Sciences
-  date: '1998-06-30'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/9668526
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4961,16 +4419,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:9259590
-  title: Perforin/granzyme-dependent and independent mechanisms are both important
-    for the development of graft-versus-host disease after murine bone marrow transplantation.
-  authors:
-  - T A Graubert
-  - J F DiPersio
-  - J H Russell
-  - T J Ley
-  publisher: The Journal of clinical investigation
-  date: '1997-08-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/9259590
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5057,16 +4505,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:8702964
-  title: Cleavage of CPP32 by granzyme B represents a critical role for granzyme B
-    in the induction of target cell DNA fragmentation.
-  authors:
-  - A J Darmon
-  - T J Ley
-  - D W Nicholson
-  - R C Bleackley
-  publisher: The Journal of biological chemistry
-  date: '1996-09-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/8702964
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5116,15 +4554,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:8608209
-  title: The role of granzyme B in murine models of acute graft-versus-host disease
-    and graft rejection.
-  authors:
-  - T A Graubert
-  - J H Russell
-  - T J Ley
-  publisher: Blood
-  date: '1996-02-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/8608209
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5175,17 +4604,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:7493755
-  title: Granzyme B plays a critical role in cytotoxic lymphocyte-induced apoptosis.
-  authors:
-  - S Shresta
-  - J W Heusel
-  - D M Macivor
-  - R L Wesselschmidt
-  - J H Russell
-  - T J Ley
-  publisher: Immunological reviews
-  date: '1995-08-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/7493755
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5237,15 +4655,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:8188694
-  title: A human protein containing a "cold shock" domain binds specifically to H-DNA
-    upstream from the human gamma-globin genes.
-  authors:
-  - E M Horwitz
-  - K A Maloney
-  - T J Ley
-  publisher: The Journal of biological chemistry
-  date: '1994-05-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/8188694
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5291,18 +4700,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:8476858
-  title: 'Molecular mechanisms regulating the production of collagenase and TIMP in
-    U937 cells: evidence for involvement of delayed transcriptional activation and
-    enhanced mRNA stability.'
-  authors:
-  - S D Shapiro
-  - G A Doyle
-  - T J Ley
-  - W C Parks
-  - H G Welgus
-  publisher: Biochemistry
-  date: '1993-04-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/8476858
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5381,20 +4778,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:1537850
-  title: Molecular cloning, chromosomal localization, and bacterial expression of
-    a murine macrophage metalloelastase.
-  authors:
-  - S D Shapiro
-  - G L Griffin
-  - D J Gilbert
-  - N A Jenkins
-  - N G Copeland
-  - H G Welgus
-  - R M Senior
-  - T J Ley
-  publisher: The Journal of biological chemistry
-  date: '1992-03-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/1537850
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5442,17 +4825,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:1660912
-  title: 1,25-Dihydroxyvitamin D3 induces monocytic differentiation of the PLB-985
-    leukemic line and promotes c-fgr mRNA expression.
-  authors:
-  - S L Perkins
-  - D C Link
-  - S Kling
-  - T J Ley
-  - S L Teitelbaum
-  publisher: Journal of leukocyte biology
-  date: '1991-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/1660912
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5493,19 +4865,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:1847500
-  title: A novel c-fgr exon utilized in Epstein-Barr virus-infected B lymphocytes
-    but not in normal monocytes.
-  authors:
-  - J S Gutkind
-  - D C Link
-  - S Katamine
-  - P Lacal
-  - T Miki
-  - T J Ley
-  - K C Robbins
-  publisher: Molecular and cellular biology
-  date: '1991-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/1847500
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5547,17 +4906,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:2300587
-  title: A cluster of hematopoietic serine protease genes is found on the same chromosomal
-    band as the human alpha/delta T-cell receptor locus.
-  authors:
-  - R D Hanson
-  - P A Hohn
-  - N C Popescu
-  - T J Ley
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '1990-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/2300587
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5620,16 +4968,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:2473114
-  title: Analysis of epitope expression and the functional repertoire of recombinant
-    complement receptor 2 (CR2/CD21) in mouse and human cells.
-  authors:
-  - J C Carel
-  - B Frazier
-  - T J Ley
-  - V M Holers
-  publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
-  date: '1989-08-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/2473114
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5679,15 +5017,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:3165297
-  title: High-resolution analysis of the human gamma-globin gene promoter in K562
-    erythroleukemia cell chromatin.
-  authors:
-  - J M Gimble
-  - E E Max
-  - T J Ley
-  publisher: Blood
-  date: '1988-08-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/3165297
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5769,16 +5098,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:2578267
-  title: Disseminated infection caused by Cunninghamella bertholletiae in a patient
-    with beta-thalassemia. Case report and review of the literature.
-  authors:
-  - J M Sands
-  - A M Macher
-  - T J Ley
-  - A W Nienhuis
-  publisher: Annals of internal medicine
-  date: '1985-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/2578267
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5830,15 +5149,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:6589792
-  title: Human globin gene expression in hybrid 2S MEL X human fibroblast cells.
-  authors:
-  - Y L Chiang
-  - T J Ley
-  - L Sanders-Haigh
-  - W F Anderson
-  publisher: Somatic cell and molecular genetics
-  date: '1984-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/6589792
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5889,19 +5199,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:6191799
-  title: 5-Azacytidine increases gamma-globin synthesis and reduces the proportion
-    of dense cells in patients with sickle cell anemia.
-  authors:
-  - T J Ley
-  - J DeSimone
-  - C T Noguchi
-  - P H Turner
-  - A N Schechter
-  - P Heller
-  - A W Nienhuis
-  publisher: Blood
-  date: '1983-08-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/6191799
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5942,17 +5239,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:6186873
-  title: 5-azacytidine for beta thalassaemia?
-  authors:
-  - T J Ley
-  - N P Anagnou
-  - N S Young
-  - A W Nienhuis
-  - J DeSimone
-  - P Heller
-  publisher: Lancet (London, England)
-  date: '1983-02-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/6186873
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -6019,16 +5305,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:6956887
-  title: RNA processing errors in patients with beta-thalassemia.
-  authors:
-  - T J Ley
-  - N P Anagnou
-  - G Pepe
-  - A W Nienhuis
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '1982-08-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/6956887
   term: Ley, TJ[Author]
   plugin: pubmed.py
   file: pubmed.yaml
